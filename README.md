@@ -4,6 +4,17 @@ Are you tired of endlessly scrolling through Netflix, struggling to find the per
 
 NetflixGPT is your go-to movie discovery companion, powered by cutting-edge technology and designed for a seamless user experience. With the magic of OpenAI GPT-3.5, it understands your movie preferences beyond traditional genre-based filters, making movie nights a breeze.
 
+##  Demo Email ID and Password 💁🏻‍♂️ 
+<ol>
+<li>
+Email ID: check@gmail.com ; Password: Check@54321
+</li>
+</ol>
+
+## 🚀 Demo
+
+You can see the live demo of the app [here](https://vikash0122-netflix-gpt.vercel.app/).
+
 
 ## 🚀 Tech Stack
 
@@ -49,6 +60,3 @@ Netflix-GPT is built using modern tech stacks that includes:
 - **Code Reusability**: We've set a strong foundation for future developments, promising even more exciting features to come!
 
 
-## 🚀 Demo
-
-You can see the live demo of the app [here](https://vikash0122-netflix-gpt.vercel.app/).
